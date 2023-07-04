@@ -1,1 +1,20 @@
+# 👋 Hi there
+
+Me chamo Helder, sou um desenvolvedor, com muitas habilidades e interesse em aprender mais sobre como criar e manter sistemas eficientes e funcionais. Com minha paixão pela tecnologia e solução de problemas, decidi me especializar em programação e desde então venho estudando e me aperfeiçoando em diferentes linguagens de programação e ferramentas.
+
+Acredito que minha combinação de habilidades técnicas e minha dedicação em aprender e evoluir continuamente me permitirá contribuir positivamente para equipes de desenvolvimento e ajudar as empresas a alcançar seus objetivos. Estou sempre buscando novas oportunidades de aprendizado e estou ansioso para colocar minhas habilidades em ação em um ambiente de trabalho desafiador.
+
+# 🚀 Expertise
+
+Além do meu foco no desenvolvimento frontend, também tenho conhecimentos em algumas áreas do desenvolvimento backend. Tenho experiência em lidar com a lógica do servidor, o armazenamento de dados e a integração com sistemas.
+
+Embora meu principal interesse e especialização estejam na construção de interfaces web interativas, entender os aspectos do backend me permite ter uma visão mais ampla do desenvolvimento de aplicações. Essa compreensão abrangente me ajuda a colaborar efetivamente com equipes de desenvolvimento, garantindo uma comunicação fluida entre as camadas frontend e backend de um projeto.
+
+# 💻 Tech Stack
+
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145](https://github.com/HelderXavierL/HelderXavierL/assets/107892192/59621566-c992-40af-b2a2-d954b0776354)![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://github.com/HelderXavierL/HelderXavierL/assets/107892192/3d43da98-7edd-41c6-b39f-440e2c4777f8)![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465](https://github.com/HelderXavierL/HelderXavierL/assets/107892192/4edbc27b-0c59-4176-baad-959e217975f6)![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642](https://github.com/HelderXavierL/HelderXavierL/assets/107892192/718f7b96-57b0-4dfe-b2ac-a4a528dbc709)![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465](https://github.com/HelderXavierL/HelderXavierL/assets/107892192/f184d183-172f-4a12-b9f5-63b3b95e7ede)![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465](https://github.com/HelderXavierL/HelderXavierL/assets/107892192/d58914cc-1282-43ea-a751-c4da55d1d21b)![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374796c65642d2d636f6d706f6e656e74732d4442373039333f7374796c653d666f722d7468652d6261646765266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465](https://github.com/HelderXavierL/HelderXavierL/assets/107892192/64ebf551-ead7-4114-9cbd-4842359ff160)![bootstrap](https://github.com/HelderXavierL/HelderXavierL/assets/107892192/c717f480-68b3-4f31-bfc7-4fa6739a3e91)![nodejs-icon](https://github.com/HelderXavierL/HelderXavierL/assets/107892192/52123174-735f-4e6e-869e-2405e5225472)
+
+
+
+
 
