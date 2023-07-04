@@ -18,3 +18,9 @@ Embora meu principal interesse e especialização estejam na construção de int
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helder-xavier/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/helder_xavier_l/)</br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://helderxavierl.github.io/)
+
+# 📊 GitHub Stats:
+
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=HelderXavierL&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelderXavierL&theme=neon&hide_border=false"  width="400px" />
+
+
