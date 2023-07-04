@@ -8,7 +8,7 @@ Acredito que minha combinação de habilidades técnicas e minha dedicação em 
 
 Além do meu foco no desenvolvimento frontend, também tenho conhecimentos em algumas áreas do desenvolvimento backend. Tenho estudo com a lógica do servidor, o armazenamento de dados e a integração com sistemas.
 
-Embora meu principal interesse e especialização estejam na construção de interfaces web interativas, entender os aspectos do backend me permite ter uma visão mais ampla do desenvolvimento de aplicações. Essa compreensão abrangente me ajuda a colaborar efetivamente com equipes de desenvolvimento, garantindo uma comunicação fluida entre as camadas frontend e backend de um projeto.
+Embora meu principal interesse e especialização estejam na construção de interfaces web interativas, acredito que entender os aspectos do backend me permitira ter uma visão mais ampla do desenvolvimento de aplicações. Essa compreensão abrangente me ajudara a colaborar efetivamente com equipes de desenvolvimento, garantindo uma comunicação fluida entre as camadas frontend e backend de um projeto.
 
 # 💻 Tech Stack
 
