@@ -1,7 +1,7 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/> -->
-
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 <img width=100% src="./.github/assets/banner.png"/>
-
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 <div align='center'>
 
 <div align="center">  
