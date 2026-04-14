@@ -1,8 +1,14 @@
+<!-- HEADER (opcional) -->
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/> -->
+
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+<img width=100% src="./.github/assets/banner.png"/>
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
+<!-- RESUMO PROFISSIONAL -->
 <div align="center">
 
-<h1>👨‍💻 Helder Xavier</h1>
+<h2>👨‍💻 Helder Xavier</h2>
 
 <p>
 🚀 Full Stack Developer | Frontend Specialist <br/>
@@ -11,34 +17,17 @@
 📍 Brazil • Open to Remote Opportunities
 </p>
 
-</div>
-
-<div align="center">
-
 <p>
-I build modern, scalable and high-performance web applications, focusing on delivering real business value through clean architecture and great user experience.<br/><br/>
-
-With experience as a freelance developer and Systems Analyst, I work across the full development cycle — from requirements gathering and planning to implementation and deployment.<br/><br/>
-
-I also bring a strong analytical mindset from my industrial background, allowing me to understand processes deeply and create solutions that truly solve real-world problems.
-
-</p>
-
-</div>
-
-<div align="center">
-
-<h3>🚀 Founder @ HexaDev</h3>
-
-<p>
-At <strong>HexaDev</strong>, I develop websites, systems, automations and digital solutions for businesses — combining technology, design and strategy to generate real results.<br/>
-Focused on performance, conversion and scalable solutions for modern companies.
+I build modern, scalable and high-performance web applications, focusing on clean architecture, performance and user experience.<br/>
+Working across the full development cycle — from requirements gathering to deployment — delivering real business solutions.<br/>
+Founder of <strong>HexaDev</strong>, creating websites, systems and digital solutions for companies.
 </p>
 
 </div>
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
+<!-- STATS -->
 <div align="center">
 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HelderXavierL&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=0000" /> 
@@ -49,53 +38,26 @@ Focused on performance, conversion and scalable solutions for modern companies.
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
-## 🧠 Tech Stack
+## 🧠 My Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,tailwind,vite,angular,figma,git,github&theme=dark" />
-
 </div>
 
----
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
-## 💼 What I Do
+## 🚀 About Me
 
-- 🔹 Build modern web applications (React, Next.js, TypeScript)
-- 🔹 Develop APIs and backend systems (Node.js, Express, Java/Quarkus)
-- 🔹 Create automations and data-driven solutions (Python, SQL)
-- 🔹 Design responsive and high-conversion interfaces
-- 🔹 Structure scalable architectures and clean codebases
-- 🔹 Work with real business problems and digital transformation
+- 💡 Frontend-focused Full Stack Developer with real project experience
+- 🧠 Strong analytical mindset from industrial background
+- ⚙️ Experience with APIs, automations and scalable systems
+- 🤝 Freelancer working directly with clients and business needs
+- 🚀 Founder of HexaDev — building digital solutions for real companies
+- 💬 Always open to talk about tech, business and opportunities
 
----
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
-## 🚀 Featured Projects
-
-### 🪓 Barbershop Scheduling System (Full Stack)
-
-- Scheduling system with user roles, availability control and business logic
-- React + Vite frontend with backend integration
-- Focus on UX, performance and real-world usability
-
-### 📦 Stock Control API (Java + Quarkus)
-
-- Backend system for industrial production logic
-- Calculates production capacity based on raw materials
-- Built with Java, Quarkus, PostgreSQL and Maven
-
----
-
-## 🧠 About Me
-
-- 💡 Analytical mindset with strong problem-solving skills
-- 🏭 Background in industrial environments (process & operations)
-- 🤝 Experience working directly with clients and business needs
-- 📈 Always improving and seeking high-level challenges
-
----
-
-## 📬 Contact
+## 📬 Contact Me
 
 <div align="center">
 
